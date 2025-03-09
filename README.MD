@@ -1,6 +1,6 @@
 # Fruits Classification by ResNet 🍏🍊
 
-![](images/fruit-class.jpg)
+![](images/fruit-class1.jpg)
 
 
 [![Python Version](https://img.shields.io/badge/python-3.7%2B-blue.svg)](https://www.python.org/)
