@@ -1,5 +1,7 @@
 # Fruits Classification by ResNet 🍏🍊
 
+
+
 [![Python Version](https://img.shields.io/badge/python-3.7%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
@@ -56,14 +58,13 @@
     ├── data/                   # Dataset folder (images and labels)
     ├── notebooks/              # Jupyter notebooks for training and evaluation
     │   └── fruits-classification-by-resnet.ipynb
-    ├── src/                    # Source code modules (if any)
     ├── requirements.txt        # Python dependencies
     ├── README.md               # This file
     └── LICENSE                 # License file (MIT)
 
 ## Full Source Code 💻
 
-    # [INSERT FULL SOURCE CODE HERE]
+    # Check out the Python Notebook `fruits-classification-by-resnet.ipynb`
 
 ## Conclusion & Future Work 🎉
 This project demonstrates the power of transfer learning with ResNet for fruit classification:
